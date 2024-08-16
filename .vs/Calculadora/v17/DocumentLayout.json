@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fchav\\Documents\\Dev\\Forms\\Calculadora\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81091B77-5281-425D-B065-606CD1D4C32D}|Calculadora\\Calculadora.csproj|c:\\users\\fchav\\documents\\dev\\forms\\calculadora\\calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81091B77-5281-425D-B065-606CD1D4C32D}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81091B77-5281-425D-B065-606CD1D4C32D}|Calculadora\\Calculadora.csproj|C:\\Users\\fchav\\Documents\\Dev\\Forms\\Calculadora\\calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81091B77-5281-425D-B065-606CD1D4C32D}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\fchav\\Documents\\Dev\\Forms\\Calculadora\\Calculadora\\Form1.cs",
+              "RelativeDocumentMoniker": "Calculadora\\Form1.cs",
+              "ToolTip": "C:\\Users\\fchav\\Documents\\Dev\\Forms\\Calculadora\\Calculadora\\Form1.cs",
+              "RelativeToolTip": "Calculadora\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T22:50:31.21Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\fchav\\Documents\\Dev\\Forms\\Calculadora\\Calculadora\\Form1.cs",
+              "RelativeDocumentMoniker": "Calculadora\\Form1.cs",
+              "ToolTip": "C:\\Users\\fchav\\Documents\\Dev\\Forms\\Calculadora\\Calculadora\\Form1.cs [Projeto]",
+              "RelativeToolTip": "Calculadora\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T22:47:50.661Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
